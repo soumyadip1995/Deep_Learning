@@ -1,5 +1,5 @@
 ## Deep_Learning_in_8_weeks
-### Week 1- 
+### Week 1 
 #### Basics of Soft Computing(Neural Networks) to Building a Neural Network
 - #### Introduction To Artificial Neural Networks(ANN) -
     - Watch the Introductory Videos To Neural Networks [here](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So) and read Part 1 of the Deep Learning Book. 
@@ -12,3 +12,5 @@
  -  #### Building a Neural Network
       - [Build a Neural Network in 4 minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ) by Siraj Raval
       - Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
+
+### Week 2
