@@ -10,3 +10,5 @@
       - View The Jupyter Notebook on the usage of MLP on kaggle's MNIST dataset [here](https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%201%20Notebooks/Kaggle-MNIST-Multilayer-Perceptron.ipynb)
       
  -  #### Building a Neural Network
+      - [Build a Neural Network in 4 minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ) by Siraj Raval
+      - Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
