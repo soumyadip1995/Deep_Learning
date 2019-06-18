@@ -14,6 +14,6 @@
       - Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
 
 ### Week 2
-#### Forward Propagation, BackPropagation and Introduction to Convolutional Neural Networks
+#### Forward Propagation, BackPropagation and Regularization and Optimization
 - [Forward Propagation](https://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-2-Forward-Propagation.php) Blogpost. You will Find its application as well in [this Jupyter Notebook](https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%202%20Notebooks/part2.ipynb). 
 - Read the [Gradient Descent](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/) Blogpost. Watch [ Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval.
