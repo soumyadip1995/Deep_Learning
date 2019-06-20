@@ -37,7 +37,7 @@
 ### Week 4
 #### Recurrent Neural Networks
 
-- Watch the Sequence Models Specialization on Coursera, found [here].
+- Watch the Sequence Models Specialization on Coursera, found [here](https://www.coursera.org/learn/nlp-sequence-models).
 - Read The blogpost on [Anyone can Learn to code an RNN](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) BY Andrew Trask.
 - Read the Blogpost on [LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) By Christopher Olah.
 - Read Andrej Karpathy's [Blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs for a Deeper Understanding.
