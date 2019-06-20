@@ -17,4 +17,14 @@
 #### Forward Propagation, BackPropagation,Regularization and Optimization
 - [Forward Propagation](https://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-2-Forward-Propagation.php) Blogpost. You will Find its application as well in [this Jupyter Notebook](https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%202%20Notebooks/part2.ipynb). 
 - Read the [Gradient Descent](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/) Blogpost. Watch [ Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval.
-- Read about [Regularization](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a). A complete tutorial on [Lasso and Ridge Regularization](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/) along with code in python
+- Read about [Regularization](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a). A complete tutorial on [Lasso and Ridge Regularization](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/) along with code in python.
+
+- #### Optimization
+     -  Read about [optimization](https://www.d2l.ai/chapter_optimization/optimization-intro.html).Explore the common Deep Learning Optimization Algorithms like:- 
+     -[SGD](https://www.d2l.ai/chapter_optimization/sgd.html).
+     -[Mini Batch SGD](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html).
+     -[Momentum](https://www.d2l.ai/chapter_optimization/momentum.html).
+     -[Adagrad](https://www.d2l.ai/chapter_optimization/adagrad.html).
+     -[RMSProp](https://www.d2l.ai/chapter_optimization/rmsprop.html).
+     -[Adadelta](https://www.d2l.ai/chapter_optimization/adadelta.html).
+     -[Adam](https://www.d2l.ai/chapter_optimization/adam.html).
