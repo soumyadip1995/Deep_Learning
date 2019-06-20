@@ -20,15 +20,7 @@
 - Read about [Regularization](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a). A complete tutorial on [Lasso and Ridge Regularization](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/) along with code in python.
 
 - #### Optimization
-     -  Read about [optimization](https://www.d2l.ai/chapter_optimization/optimization-intro.html). Explore the common Deep Learning Optimization Algorithms like:- 
-     
-     - [SGD](https://www.d2l.ai/chapter_optimization/sgd.html).
-     - [Mini Batch SGD](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html).
-     - [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html).
-     - [Adagrad](https://www.d2l.ai/chapter_optimization/adagrad.html).
-     - [RMSProp](https://www.d2l.ai/chapter_optimization/rmsprop.html).
-     - [Adadelta](https://www.d2l.ai/chapter_optimization/adadelta.html).
-     - [Adam](https://www.d2l.ai/chapter_optimization/adam.html).
+     -  Read about [optimization](https://www.d2l.ai/chapter_optimization/optimization-intro.html). Explore the common Deep Learning Optimization Algorithms like:- [SGD](https://www.d2l.ai/chapter_optimization/sgd.html), [Mini Batch SGD](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html), [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html), [Adagrad](https://www.d2l.ai/chapter_optimization/adagrad.html), [RMSProp](https://www.d2l.ai/chapter_optimization/rmsprop.html), [Adadelta](https://www.d2l.ai/chapter_optimization/adadelta.html), [Adam](https://www.d2l.ai/chapter_optimization/adam.html).
 
 
 
@@ -40,3 +32,13 @@
 - Watch Siraj Raval's Video on CNN [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s).
 - Write out a simple CNN yourself (using no ML libraries). You can use [this](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) medium post for reference.
 - Read [The 9 Deep Learning papers you Need to know to Understand CNNs](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html) by Adit Deshpande.
+
+
+### Week 4
+#### Recurrent Neural Networks
+
+- Watch the Sequence Models Specialization on Coursera, found [here].
+- Read The blogpost on [Anyone can Learn to code an RNN](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) BY Andrew Trask.
+- Read the Blogpost on [LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) By Christopher Olah.
+- Read Andrej Karpathy's [Blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs for a Deeper Understanding.
+- Write out a simple RNN yourself (using no ML libraries)
