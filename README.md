@@ -53,3 +53,19 @@
 - Watch the introduction to tensorflow playlist [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
 -  Read Keras Example code to quickly understand its structure [here](https://keras.io/getting-started/sequential-model-guide/)
 - Getting started with Pytorch Tutorials. [Build an image classifier in Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py)
+
+
+### Week 6
+#### Unsupervised Deep Learning
+
+- Read the Introduction To Unsupervised [Deep Learning](https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/) by Analytics Vidhya.
+- Read this(https://www.cs.cmu.edu/~rsalakhu/talk_MLSS_part2.pdf) material by Carnegie Mellon University.
+- Read [this](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) Blogpost on Auto Encoders by Stanford.edu. Watch [this](https://www.youtube.com/watch?v=H1AllrJ-_30) video on AutoEncoders by Siraj Raval.
+- Read my Blogpost on [Boltzmann Machines and Restricted Boltzmann Machines](https://soumyadip1995.blogspot.com/2018/12/introduction-to-boltzmann-machinesand.html)
+- Build an Autoencoder using Keras. Use[this] (https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%206%20NoteBook/vae-talk.ipynb) Jupyter Notebook
+- Read [This](http://ufldl.stanford.edu/tutorial/selftaughtlearning/SelfTaughtLearning/) Blog Post on Self Taught Learning By Stanford edu.
+
+### Week 7
+#### Generative Adversarial Networks
+- Read the blogpost on [A beginner's Guide to Generative Adversarial Networks](https://skymind.ai/wiki/generative-adversarial-network-gan) by skymind.ai
+- Try [this](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) Blogpost for an edge.
