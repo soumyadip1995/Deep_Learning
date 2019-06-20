@@ -41,4 +41,15 @@
 - Read The blogpost on [Anyone can Learn to code an RNN](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/) BY Andrew Trask.
 - Read the Blogpost on [LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) By Christopher Olah.
 - Read Andrej Karpathy's [Blogpost](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) on RNNs for a Deeper Understanding.
-- Write out a simple RNN yourself (using no ML libraries)
+- Write out a simple RNN yourself (using no ML libraries).
+
+
+### Week 5
+#### Deep Learning Tools
+
+- Watch CS20 (Tensorflow for DL research). Slides are [here](http://web.stanford.edu/class/cs20si/syllabus.html). Playlist is [here](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLDuNt91tg0urwwTQNKyUbncSDvMEl74ww)
+- Learn which GPU provider is best for you [here](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
+- Watch [Install CPU and GPU version of Tensorflow](https://www.youtube.com/watch?v=r7-WPbx8VuY) on Windows by Sentdex and also [Installing The GPU version of tensorflow to make use of your cuda GPU ](https://www.youtube.com/watch?v=io6Ajf5XkaM) by Sentdex.
+- Watch the introduction to tensorflow playlist [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+-  Read Keras Example code to quickly understand its structure [here](https://keras.io/getting-started/sequential-model-guide/)
+- Getting started with Pytorch Tutorials. [Build an image classifier in Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#sphx-glr-beginner-blitz-cifar10-tutorial-py)
