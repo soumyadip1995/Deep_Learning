@@ -14,7 +14,7 @@
       - Type out the neural network code yourself in a text editor, compile, and run it locally (using no ML libraries)
 
 ### Week 2
-#### Forward Propagation, BackPropagation,Regularization and Optimization
+#### Forward Propagation,  BackPropagation and Regularization.
 - [Forward Propagation](https://www.bogotobogo.com/python/scikit-learn/Artificial-Neural-Network-ANN-2-Forward-Propagation.php) Blogpost. You will Find its application as well in [this Jupyter Notebook](https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%202%20Notebooks/part2.ipynb). 
 - Read the [Gradient Descent](https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/) Blogpost. Watch [ Backpropagation in 5 minutes](https://www.youtube.com/watch?v=q555kfIFUCM) by Siraj Raval.
 - Read about [Regularization](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a). A complete tutorial on [Lasso and Ridge Regularization](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/) along with code in python.
@@ -29,3 +29,14 @@
      - [RMSProp](https://www.d2l.ai/chapter_optimization/rmsprop.html).
      - [Adadelta](https://www.d2l.ai/chapter_optimization/adadelta.html).
      - [Adam](https://www.d2l.ai/chapter_optimization/adam.html).
+
+
+
+### Week 3
+#### Convolutional Neural Networks
+
+- Watch the Convolutional Networks Specialization on Coursera, found [here](https://www.coursera.org/learn/convolutional-neural-networks).
+- Read  [A Beginner's Guide to Convolutional Neural Networks- part 1](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/) and [A Beginner's Guide to Convolutional Neural Network part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/) By Adit Deshpande. 
+- Watch Siraj Raval's Video on CNN [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s).
+- Write out a simple CNN yourself (using no ML libraries). You can use [this](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) medium post for reference.
+- Read [The 9 Deep Learning papers you Need to know to Understand CNNs](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html) by Adit Deshpande.
