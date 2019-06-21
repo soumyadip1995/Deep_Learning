@@ -30,6 +30,7 @@
 - Watch the Convolutional Networks Specialization on Coursera, found [here](https://www.coursera.org/learn/convolutional-neural-networks).
 - Read  [A Beginner's Guide to Convolutional Neural Networks- part 1](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/) and [A Beginner's Guide to Convolutional Neural Network part 2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/) By Adit Deshpande. 
 - Watch Siraj Raval's Video on CNN [here](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) and [here](https://www.youtube.com/watch?v=cAICT4Al5Ow&t=4s).
+- Read module 2 by Andrej Karpathy in CS231n [here](http://cs231n.github.io/)
 - Write out a simple CNN yourself (using no ML libraries). You can use [this](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1) medium post for reference.
 - Read [The 9 Deep Learning papers you Need to know to Understand CNNs](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html) by Adit Deshpande.
 
