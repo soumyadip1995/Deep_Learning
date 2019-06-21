@@ -65,7 +65,26 @@
 - Build an Autoencoder using Keras. Use [this](https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%206%20NoteBook/vae-talk.ipynb) Jupyter Notebook
 - Read [This](http://ufldl.stanford.edu/tutorial/selftaughtlearning/SelfTaughtLearning/) Blog Post on Self Taught Learning By Stanford edu.
 
+
 ### Week 7
 #### Generative Adversarial Networks
 - Read the blogpost on [A beginner's Guide to Generative Adversarial Networks](https://skymind.ai/wiki/generative-adversarial-network-gan) by skymind.ai
-- Try [this](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) Blogpost for an edge.
+- Try [this](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) Blogpost for an edge
+- Read the [NeurIPS 2016 tutorial on GANs](https://arxiv.org/pdf/1701.00160.pdf) 
+- View [this](https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb) notebook on Deep Convoultional GANs to Generate images of Handwritten digits using Tensorflow.
+- See more on GAN application in the [Papers with code](https://paperswithcode.com/search?q=GANs) website. There are several papers on Different GAN applications whose results you can replicate.
+
+### Week 8
+#### Deep Reinforcement Learning
+
+- Read [A beginner's Introduction For Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning) to know the basics.
+- Read my Blogpost on [Q-learning:- pLaying Open AI's Taxi Version-2](https://soumyadip1995.blogspot.com/2019/01/q-learning-playing-openais-taxi-version.html) to see a first Hand application of DRL
+- Watch CS-294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- Try and participate in The DeepTraffic Competition By MIT. Read my Blogpost on [DeepTraffic:A deep Reinforcement ](https://soumyadip1995.blogspot.com/2019/01/deeptraffic-deep-reinforcement-learning.html) to know how.
+- Build a Deep Q Network using Tensorflow
+- Read my Blogpost on [DeepMind's AlphaGo Zero: Explanation](https://soumyadip1995.blogspot.com/2019/01/deepminds-alphagozero-explanation.html)
+
+### Project
+
+- Try and Re-Build [Python AI plays: StarCraft 2](https://soumyadip1995.blogspot.com/p/python-ai-plays-starcraft-2-tutorials.html). I have used rule based AI for the most part. You can use CNNs. All details have been provided in the given Link
+- Try and Re-Build [Python Plays Ashpalt 9](https://github.com/soumyadip1995/python-plays-Asphalt-9-legend). I have Used CNNs. You may rebuild it using Deep Reinforcement Learning. Download Ashplalt 9 for windows 10 from [here](https://www.microsoft.com/store/productId/9NZQPT0MWTD0)
