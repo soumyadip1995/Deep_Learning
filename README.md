@@ -85,7 +85,7 @@
 - Build a Deep Q Network using Tensorflow
 - Read my Blogpost on [DeepMind's AlphaGo Zero: Explanation](https://soumyadip1995.blogspot.com/2019/01/deepminds-alphagozero-explanation.html)
 
-### Project
+### Projects( After completion of 8 weeks)
 
 - Try and Re-Build [Python AI plays: StarCraft 2](https://soumyadip1995.blogspot.com/p/python-ai-plays-starcraft-2-tutorials.html). I have used rule based AI for the most part. You can use CNNs. All details have been provided in the given Link
 - Try and Re-Build [Python Plays Ashpalt 9](https://github.com/soumyadip1995/python-plays-Asphalt-9-legend). I have Used CNNs. You may rebuild it using Deep Reinforcement Learning. Download Ashplalt 9 for windows 10 from [here](https://www.microsoft.com/store/productId/9NZQPT0MWTD0)
