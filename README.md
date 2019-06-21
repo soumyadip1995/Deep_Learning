@@ -86,5 +86,8 @@
 
 ### Projects( After completion of 8 weeks)
 
-- Try and Re-Build [Python AI plays: StarCraft 2](https://soumyadip1995.blogspot.com/p/python-ai-plays-starcraft-2-tutorials.html). I have used rule based AI for the most part. You can use CNNs. All details have been provided in the given Link
-- Try and Re-Build [Python Plays Ashpalt 9](https://github.com/soumyadip1995/python-plays-Asphalt-9-legend). I have Used CNNs. You may rebuild it using Deep Reinforcement Learning. Download Ashplalt 9 for windows 10 from [here](https://www.microsoft.com/store/productId/9NZQPT0MWTD0)
+- #### Project 1:- 
+  Try and Re-Build [Python AI plays: StarCraft 2](https://soumyadip1995.blogspot.com/p/python-ai-plays-starcraft-2-tutorials.html). I have used rule based AI for the most part. You can use CNNs. All details have been provided in the given Link.
+  
+- #### Project 2:-
+   Try and Re-Build [Python Plays Ashpalt 9](https://github.com/soumyadip1995/python-plays-Asphalt-9-legend). I have Used CNNs. You may rebuild it using Deep Reinforcement Learning. Download Ashplalt 9 for windows 10 from [here](https://www.microsoft.com/store/productId/9NZQPT0MWTD0)
