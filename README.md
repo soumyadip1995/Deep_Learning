@@ -71,7 +71,8 @@
 - Read the blogpost on [A beginner's Guide to Generative Adversarial Networks](https://skymind.ai/wiki/generative-adversarial-network-gan) by skymind.ai
 - Try [this](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html) Blogpost for an edge
 - Read the [NeurIPS 2016 tutorial on GANs](https://arxiv.org/pdf/1701.00160.pdf) 
-- View [this](https://github.com/tensorflow/tensorflow/blob/r1.13/tensorflow/contrib/eager/python/examples/generative_examples/dcgan.ipynb) notebook on Deep Convoultional GANs to Generate images of Handwritten digits using Tensorflow.
+- View [this](https://github.com/soumyadip1995/Deep_Learning_in_8_weeks/blob/master/Week%208%20Notebook/Copy_of_dcgan.ipynb) notebook on Deep Convoultional GANs to Generate images of Handwritten digits using Tensorflow.
+  - [Pytorch NoteBook](https://github.com/diegoalejogm/gans/blob/master/Vanilla%20GAN%20PyTorch.ipynb) Vanilla GANs.
 - See more on GAN application in the [Papers with code](https://paperswithcode.com/search?q=GANs) website. There are several papers on Different GAN applications whose results you can replicate.
 
 ### Week 8
