@@ -1,4 +1,6 @@
 ## Deep_Learning_in_8_weeks
+[![Python 3.6+](https://img.shields.io/badge/python%20-3.6%2B-green.svg)](https://www.python.org/downloads/)
+
 ### Week 1 
 #### Basics of Soft Computing(Neural Networks) to Building your First Neural Network
 - #### Introduction To Artificial Neural Networks(ANN) -
