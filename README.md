@@ -81,10 +81,9 @@
 #### Deep Reinforcement Learning
 
 - Read [A beginner's Introduction For Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning) to know the basics.
-- Read my Blogpost on [Q-learning:- pLaying Open AI's Taxi Version-2](https://soumyadip1995.blogspot.com/2019/01/q-learning-playing-openais-taxi-version.html) to see a first Hand application of DRL
+- Read my Blogpost on [Q-learning:- pLaying Open AI's Taxi Version-2](https://aiactivated.blogspot.com/2019/12/q-learning-playing-openais-taxi-v2.html?m=1) to see a first Hand application of DRL
 - Watch CS-294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- Try and participate in The DeepTraffic Competition By MIT. Read my Blogpost on [DeepTraffic:A deep Reinforcement ](https://soumyadip1995.blogspot.com/2019/01/deeptraffic-deep-reinforcement-learning.html) to know how.
 - Build a Deep Q Network using Tensorflow
-- Read my Blogpost on [DeepMind's AlphaGo Zero: Explanation](https://soumyadip1995.blogspot.com/2019/01/deepminds-alphagozero-explanation.html)
+- Read my Blogpost on [DeepMind's AlphaGo Zero: Explanation](https://aiactivated.blogspot.com/2019/12/deepminds-alphago-zero-explanation.html?m=1)
 
 A list of few [Books and Materials](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md), just for reference.
