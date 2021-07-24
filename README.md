@@ -1,4 +1,6 @@
-## Deep_Learning_in_8_weeks
+## Deep_Learning
+
+
 [![Python 3.6+](https://img.shields.io/badge/python%20-3.6%2B-green.svg)](https://www.python.org/downloads/)
 
 ### Week 1 
